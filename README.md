@@ -5,7 +5,7 @@ matlab code for individual metro trip destination inference
 
 graphical model
 
-<img src="https://github.com/lijunsun/destination_inference/blob/master/figure/graph.png" width="800">
+<img src="https://github.com/lijunsun/destination_inference/blob/master/figure/graph.png" width="400">
 
 require mex
 
