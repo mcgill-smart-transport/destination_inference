@@ -3,6 +3,10 @@
 
 matlab code for individual metro trip destination inference
 
+graphical model
+
+<img src="https://github.com/lijunsun/destination_inference/figure/graph.png" width="800">
+
 require mex
 
 mex mnrnd_mex_noscale.c
