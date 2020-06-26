@@ -1,7 +1,10 @@
-# destination_inference
+# destination inference model
  
 
-matlab code for individual metro trip destination inference
+matlab code for individual metro trip destination inference based on smart card data
+
+Each user contains a set of tuples (origin, time, destination) {(w^o, w^t, w^d)}. 
+The objective is to get the destination probability of a new trip p_u(w^di|w^oi,w^ti,w^o{all except i},w^t{all except i},w^d{all except i}).
 
 graphical model
 
